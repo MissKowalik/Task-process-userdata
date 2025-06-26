@@ -1,0 +1,16 @@
+{
+  "name": "task-process-userdata",
+  "version": "1.0.0",
+  "description": "🎯 Uppgift: Bearbeta användardata\r Denna uppgift syftar till att sammanfatta och tillämpa kunskaperna från veckans genomgångar: variabler, datatyper, arrayer, objekt, loopar, villkorssatser och typkonvertering.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
