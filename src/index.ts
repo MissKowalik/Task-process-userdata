@@ -17,7 +17,7 @@ for (const user of users) {
 
     // convert name to uppercase if user is active
     if (user.isActive) {
-        userName.toUpperCase; 
+        userName = user.name.toUpperCase(); 
     }
 
     // create new object for each user
