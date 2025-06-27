@@ -14,7 +14,7 @@ for (const user of users) {
     let userName = user.name; // copy of name
     // convert name to uppercase if user is active
     if (user.isActive) {
-        userName = user.name.toUpperCase();
+        userName = userName.toUpperCase();
     }
     // create new object for each user
     const processedUser = {
